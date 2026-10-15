@@ -1,0 +1,6 @@
+{
+  "name": "Aethel & Ever · Luxury Wedding Planner",
+  "description": "Comprehensive wedding planning suite with supplier finding, venue locator, budget dashboard, interactive seating charts, mood boards, guest tracking, and role-based collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
